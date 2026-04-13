@@ -50,3 +50,5 @@ Watches for file changes and restarts automatically.
 | Watch     | Live clock displaying the current time as large ASCII art digits (HH:MM:SS) with the full date below. Updates every second. |
 | DNA Helix | Rotating double helix with colored base pairs (A-T, G-C). Cyan and magenta strands with red, yellow, green, and magenta rungs. |
 | Matrix Rain | Digital rain with half-width katakana, character mutation, phosphor-fade gradient, glitch pulses, and variable stream speeds. |
+| Nyan Cat | Rainbow-trailing cat with parallax star field, sprite animation, and sparkle particle system. |
+| System Monitor | Real-time CPU, Memory & GPU dashboard with braille dot-matrix charts, per-core gauges, and nvidia-smi integration. |
