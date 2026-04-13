@@ -2,6 +2,10 @@
 
 Modular terminal animation playground built with [Ink](https://github.com/vadimdemedes/ink) and TypeScript. Browse and launch animations from an interactive menu.
 
+<p align="center">
+  <img src="assets/demo.svg" alt="Aesthetic CLI Demo" width="800"/>
+</p>
+
 ## Getting Started
 
 ### Prerequisites
@@ -45,3 +49,4 @@ Watches for file changes and restarts automatically.
 | --------- | --------------------------------------------------------------------------- |
 | Watch     | Live clock displaying the current time as large ASCII art digits (HH:MM:SS) with the full date below. Updates every second. |
 | DNA Helix | Rotating double helix with colored base pairs (A-T, G-C). Cyan and magenta strands with red, yellow, green, and magenta rungs. |
+| Matrix Rain | Digital rain with half-width katakana, character mutation, phosphor-fade gradient, glitch pulses, and variable stream speeds. |
