@@ -1,0 +1,22 @@
+{
+  "name": "aesthetic-cli",
+  "version": "0.1.0",
+  "description": "Modular CLI for testing terminal animations",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/main.tsx",
+    "dev": "tsx watch src/main.tsx"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.0",
+    "ink": "^5.1.0",
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.7.0",
+    "@types/react": "^18.3.18",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
